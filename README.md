@@ -111,3 +111,19 @@ Quando o usuário escolhe uma carreira, o agente transfere os seguintes dados pa
 🚀 Contexto de mercado: forte crescimento em empresas de tecnologia e startups
 
 resultado da oesqisa do agente 2:
+
+Perfeito 🎯! Aqui estão os dados coletados do Agente 1, prontos para serem transferidos ao Agente 2:
+
+CARREIRA_ESCOLHIDA: Cientista de Dados Júnior 📊
+
+HORAS_SEMANA: 12 horas ⏱️
+
+EXPERIÊNCIA: Zero 🚀
+
+OBJETIVO: Primeiro emprego 🏁
+
+PREFERÊNCIA: Código 👨‍💻
+
+INTERESSES: Inteligência Artificial 🤖
+
+
