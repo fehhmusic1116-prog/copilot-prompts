@@ -76,35 +76,38 @@ Quando o usuário escolhe uma carreira, o agente transfere os seguintes dados pa
 - Nunca fazer mais de 1 pergunta por vez  
 - Nunca continuar perguntando após as 7 perguntas  
 - Nunca gerar plano de estudos (isso é responsabilidade do Agent 2)  
-- Nunca citar salários específicos  
+- Nunca citar salários específicos
 
----
+- resultado da pesquisa do agente 1:
 
-## 🎬 Exemplo de Fluxo
+👨‍💻 Carreira 1: Desenvolvedor Backend
 
-```text
-Olá! 👋 
-Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
+⭐ Pontuação: 18/20
 
-👉 Pergunta 1: O que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?
+✅ Vantagens: foco em código e lógica, alta demanda, ramp-up rápido
 
-Após as 7 perguntas, o agente apresenta:
+⚠️ Desafios: exige dedicação em algoritmos e estruturas de dados
 
-🥇 1º Lugar: Desenvolvedor Backend Python – 18/20
-🥈 2º Lugar: Cientista de Dados / IA – 16/20
-🥉 3º Lugar: Desenvolvedor Mobile – 14/20
+🌍 Contexto de mercado: muito procurado em empresas de todos os portes
 
-E então pergunta:
+📊 Carreira 2: Cientista de Dados Júnior
 
-Qual dessas carreiras te chamou mais atenção?
+⭐ Pontuação: 16/20
 
-📦 Tecnologias Utilizadas
-Python (para lógica e backend do agente)
+✅ Vantagens: conecta interesse em IA com análise de dados, aproveita raciocínio lógico
 
-Prompt Engineering (para estruturar entrevistas e análise)
+⚠️ Desafios: ramp-up um pouco mais longo, exige matemática
 
-DIO Platform (execução do desafio)
+📈 Contexto de mercado: mercado em expansão com IA e Big Data
 
-🧑‍💻 Autor
-Projeto desenvolvido como parte do Desafio DIO para prática de IA aplicada a carreiras em tecnologia.
+🤖 Carreira 3: Engenheiro de Machine Learning Júnior
 
+⭐ Pontuação: 15/20
+
+✅ Vantagens: alinhado diretamente ao seu interesse em IA, aproveita comunicação para explicar modelos
+
+⚠️ Desafios: ramp-up mais desafiador, exige base sólida em programação e estatística
+
+🚀 Contexto de mercado: forte crescimento em empresas de tecnologia e startups
+
+resultado da oesqisa do agente 2:
